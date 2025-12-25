@@ -147,4 +147,12 @@ Video 11: Cyclic Sort
         q. print n-1 natural number
         q. sum of n natural number
         q. fact of n natural number
-        q.
+        q.print the sum of digit
+        q. fibonacci series (both version)
+        q. Tower of hanoi
+        q. Josephous problem
+        q. Subset
+        q. Permutation
+        q. Letter combination sum
+        q. Combination sum
+        q. Sudoku solver
