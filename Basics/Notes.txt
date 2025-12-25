@@ -74,3 +74,77 @@ Video 7: C&O
 
     - Class and Objects
     -Constructor
+    - prototype Objects
+    - this keyword
+    - design problems
+
+Real Game starts from here
+
+Video 8: Advance array problems
+
+    q. Left and right roatation by k element
+    q. Remove duplicates from the sorted array 
+    q. Merge sorted array
+    q. Best time to buy and sell stocks
+    q. Sort the color
+    q. Maximum Subarray / kadane's algorithms
+    q. Majority Element/ Moore's voting algorithms
+    q. Trapping Rain water
+
+Video 9: Sorting Algo- Part 1
+    - Bubble, Selection, Insertion
+
+Video 10: Sorting Algo - Part 2
+    - Quick, Merge
+
+Video 11: Cyclic Sort
+
+    q. Missing number
+    q. Find all the disappeared in array
+    q. First Positive number
+
+    ---------- Binary Search -------------
+    q. Binary Search
+    q. Search Insert Position
+    q. Search in rotated Sorted array
+    q. Book allocation
+    q. koko eating
+    q. threshold llimit
+
+    ------------------ Hashing ----------
+
+    Q. Print the frequency of each number
+    Q. print the unique element
+    Q. check if sentence is Pangram
+    Q. Sort the people
+    Q. Two Sum
+    Q. Subarray sum equal to k
+    Q. Longest Subarray with sum K
+    Q. Longest Consecutive sequence
+
+    =============== Linked List ========== 
+
+    -Implementation
+        Q. Design Linked List
+        Q. Middle of the Linked List
+        Q. Linked List cycle
+        Q. Reverse Linked List
+        Q. Delete the node in Linked List
+        Q. Reverse Nodes in K-Group
+
+    =============== Queue and stacks ========
+        -Implementation
+            Q. Valid Paranthesis
+            Q. Implement stacks using Queue
+            Q. Implement Queue using stacks
+            Q. Next larger element
+            Q. Largest Reactange is historgram
+    
+    ----------------------------------- Recursion and Backtracking ================================
+
+        q. print n hello times
+        q. print 1-n natural number
+        q. print n-1 natural number
+        q. sum of n natural number
+        q. fact of n natural number
+        q.
