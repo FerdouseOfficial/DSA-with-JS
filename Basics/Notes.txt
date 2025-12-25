@@ -1,0 +1,76 @@
+DSA with JS for YouTube
+
+video -> Baatcheet mahaulsetup and preparation
+
+Video 1: Basics logic on JS ->> variable, operator, operation on operator..
+
+    - Qs 1. Sum of two integer
+        +> Relation between integer and string
+    - Qs 2. sum and message
+    - Qs 3. Accept and print the answer
+    - Qs 4. Swap two variables via 3 methdos
+    -- Operators and their questions
+    -- Math functions
+    -- Math problems:
+      +> Qs 5. Calculate area and perimeter of rectangle.
+      +> Qs 6. area of triangle by heron's formula
+      +> Qs 7. Circumference of circle
+
+
+Video 2: Conditional Statement
+    - Qs 8. Valid user
+    - Qs 9. Shop discount
+    - Qs 11. Bijli bill
+    - Qs 12. INR denomination
+    -- Ternary operator, switch and One case handling multiple values
+
+Video 3: Loop
+
+    - Loop
+    - For Loop
+    Q. Print n hello worlds
+    Q. One to n number and vice versa
+    Q. Sum of n natural number and factorial of number
+    Q. Factors of number
+    Q. Prime number
+    --- While Loop -------------
+    Q. sum of digit
+    Q. reverse of number
+    Q. Strong number
+
+    --do-While-----
+
+    Q. Reapeat hello
+    Q. Sasta calculator
+    Q. Guess the number
+
+Vidoe 4: Pattern Programming
+
+    -- Nested Loop
+    -- Pattern questions
+
+Vidoe 5: Array
+
+    -- Array
+    -- Introduction
+    -- Fixed and dynamic size Array
+    -- accept value from user and assign in the Array
+    -- Q. sum of array's element
+    -- Q. max element from array
+    -- Q. second max element from array
+    -- Q. reverse the array 
+    -- Q. all zeroes to left and all ones to right
+
+Video 6: String 
+    - Introductio of string
+    - methods of string
+    - q. print each character on new line
+    - q. print in reverse order
+    - q. check if string is pallindrome or not
+    - q. toggle each character
+    - q. frequency of each character
+
+Video 7: C&O
+
+    - Class and Objects
+    -Constructor
