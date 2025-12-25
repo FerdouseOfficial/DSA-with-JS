@@ -156,3 +156,29 @@ Video 11: Cyclic Sort
         q. Letter combination sum
         q. Combination sum
         q. Sudoku solver
+
+        ============== Binary Tree ==========
+
+        - Implementation
+        - DFS traversals - teeno version
+        q. Maximum depth of binary Tree
+        q. Symmetric Tree
+        q. BFS traversals
+        q. Left view
+        q. Top view 
+        q. LCA common Ancestor
+        q. Construct Binary tree from pre-order and in-order
+
+        ============ Binary Search Tree =========
+
+        q. Validate Binary Search tree
+        q. kth smallest element is BST
+        q. Delete nodes is BST
+
+        ============ Graph ==========
+
+        -Implementation
+            q. BFS and DFS traversals
+            q. Cycle detection
+            q. topological sort 
+            1. Shortest path Algo's
