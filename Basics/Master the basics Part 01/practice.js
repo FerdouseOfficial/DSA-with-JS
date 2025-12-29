@@ -11,4 +11,6 @@ console.log(_a+_b);
 let c = 20;
 let d = '22';
 
-console.log(c + d);
+console.log(c + d); 
+
+//! remember when we add string with number its called concatination not addition
